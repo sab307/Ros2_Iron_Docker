@@ -1,0 +1,9 @@
+[submodule "src/rmw_zenoh"]
+	path = src/rmw_zenoh
+	url = https://github.com/ros2/rmw_zenoh.git
+[submodule "src/usb_cam"]
+	path = src/usb_cam
+	url = https://github.com/ros-drivers/usb_cam.git
+[submodule "src/zenoh-plugin-ros2dds"]
+	path = src/zenoh-plugin-ros2dds
+	url = https://github.com/eclipse-zenoh/zenoh-plugin-ros2dds.git
